@@ -2,13 +2,14 @@
 
 This is a test repository. We use it to demonstrate some Git concepts.
 
-This is the original firts line of a test sequence.
+Please note the first line where we fixed a typo, too.
 
-Obviously this is the original second line
+The second line, for your attention
 
-Here is the original third line, enjoy
+Our elaborate line number three
 
-Coming up now, the one and only original fourth line
+Line number four, respectfully
 
-Finally, the original fifth line, which ends the original file
- 
+Five lines would be ended by this one
+
+But we deign to add a Line Six this time
