@@ -2,7 +2,7 @@
 
 This is a test repository. We use it to demonstrate some Git concepts.
 
-FIRST LINE, and first change here comes
+We do a second change on the first line in the second commit
 
 Obviously this is the original second line
 
