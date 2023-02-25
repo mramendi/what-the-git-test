@@ -2,11 +2,11 @@
 
 This is a test repository. We use it to demonstrate some Git concepts.
 
-This is the original firts line of a test sequence.
+FIRST LINE, and first change here comes
 
 Obviously this is the original second line
 
-Here is the original third line, enjoy
+The third line gets in on the first change as welllllll
 
 Coming up now, the one and only original fourth line
 
