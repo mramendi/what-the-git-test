@@ -6,9 +6,11 @@ We do a second change on the first line in the second commit
 
 Obviously this is the original second line
 
-The third line gets in on the first change as welllllll
+And now, NOW! Line 3 got a second change in the THIRD commit
 
 Coming up now, the one and only original fourth line
 
 Finally, the original fifth line, which ends the original file
+
+ANd a line six this time, added in the third commit of rash
  
