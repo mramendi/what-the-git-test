@@ -2,7 +2,7 @@
 
 This is a test repository. We use it to demonstrate some Git concepts.
 
-This is the original firts line of a test sequence.
+This is a new-feature first line of a test sequence.
 
 Obviously this is the original second line
 
@@ -10,5 +10,4 @@ Here is the original third line, enjoy
 
 Coming up now, the one and only original fourth line
 
-Finally, the original fifth line, which ends the original file
- 
+The new feature also modifies the fifth line
